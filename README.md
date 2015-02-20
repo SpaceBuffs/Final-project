@@ -13,9 +13,13 @@ Mongo.Collection is the API used to query the database and it comes with the fol
 4. remove: This method is used to delete documents from the database
 5. find: This method is used to query the database for documents 
 6. findOne: This method is used to return only the first matched document 
+...
+example
 
-   Meteor has a database everywhere approach, which means we have the same  API to query the database on the client as well as on the server. when we  query the database on the client, we are only able to access the data that we  published to a client.
 [take a look how sirra and heather did the acctivity collections](/collections/collections.js)
+
+   Meteor has a database everywhere approach, which means we have the same  API to query the database on the client as well as on the server. when we  query the database on the client, we are only able to access the data that we  published to a client...
+
 
 # CCT
 
