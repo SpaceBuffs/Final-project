@@ -54,6 +54,7 @@ by creating a file called subscriptions.js inside the client folder with the fol
 1. [Explore Meteor Packages](https://atmospherejs.com/)
 2. [iron-router](https://github.com/iron-meteor/iron-router)
 3. [Filtering data with publish and subscribe](https://www.meteor.com/try/11)
+4. [ Web Apps with Meteor](http://www.smashingmagazine.com/2013/06/13/build-app-45-minutes-meteor/)
 
 timeline ref:
 
