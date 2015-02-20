@@ -1,9 +1,9 @@
 # Database:
-##Setting up a collection
+####Setting up a collection
 ```javascript
 Activity = new Mongo.collection('activity')
 ```
-Handy Mongo commands:
+####Handy Mongo commands:
 ---------------------
 Mongo.Collection is the API used to query the database and it comes with the following basic methods: 
 
@@ -14,7 +14,9 @@ Mongo.Collection is the API used to query the database and it comes with the fol
 5. find: This method is used to query the database for documents 
 6. findOne: This method is used to return only the first matched document 
 
-   Meteor has a database everywhere approach, which means that we have the same  API to query the database on the client as well as on the server. when we  query the database on the client, we are only able to access the data that we  published to a client. 
+   Meteor has a database everywhere approach, which means we have the same  API to query the database on the client as well as on the server. when we  query the database on the client, we are only able to access the data that we  published to a client.
+
+
 # CCT
 
 Collaborative Campaign Tool
