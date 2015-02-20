@@ -1,8 +1,17 @@
 # Database:
 ##Setting up a collection
-'''javascript 
+```javascript
 Activity = new Mongo.collection('activity')
-'''
+```
+Handy Mongo commands:
+Mongo.Collection is the API used to query the database and it comes with the following basic methods: 
+• insert: This method is used to insert documents into the database
+• update: This method is used to update documents or parts of them 
+• upsert: This method is used to insert or update documents or parts of them
+• remove: This method is used to delete documents from the database
+• find: This method is used to query the database for documents 
+• findOne: This method is used to return only the first matched document 
+
    Meteor has a database everywhere approach, which means that we have the same  API to query the database on the client as well as on the server. when we  query the database on the client, we are only able to access the data that we  published to a client. 
 # CCT
 
