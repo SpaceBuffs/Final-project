@@ -3,8 +3,8 @@ folders:
 ├── CCT.css
 ├── CCT.html
 ├── client
-│   ├── html
-│   │   ├── 3dmodel.html
+│   ├── html
+│   │   ├── 3dmodel.html
 │   │   ├── activity.html
 │   │   ├── aed_activity.html
 │   │   ├── chat.html
