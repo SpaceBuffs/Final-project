@@ -28,7 +28,7 @@ example
 
 if we keep the autopublish and insecure core packages added to our project by default. The autopublish package automatically publishes all documents to every client, whereas the insecure package allows every client to update database records by its _id field. this means every client can manipulate our database.    
 
-To access the data on the client, we need to tell the server to publish it to subscribing clients. [so, we need a file called publications.js inside the server](../server/publications.js) folder, example 
+To access the data on the client, we need to tell the server to publish it to subscribing clients. [so, we need a file called publications.js inside the server](/server/publications.js) folder, example 
 ```javascript
 // publish all the data 
 Meteor.publish('something', function () {  
