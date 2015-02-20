@@ -4,7 +4,7 @@ folders:
 ├── CCT.html
 ├── client
 │   ├── html
-│   │   ├── 3dmodel.html
+│   │   ├── 3dmodel.html
 │   │   ├── activity.html
 │   │   ├── aed_activity.html
 │   │   ├── chat.html
