@@ -1,5 +1,6 @@
-
-
+= Databases =
+Meteor has a database everywhere approach, which means that we have the same  API to query the database on the client as well as on the server. 
+Yet, when we  query the database on the client, we are only able to access the data that we  published to a client. 
 # CCT
 
 Collaborative Campaign Tool
