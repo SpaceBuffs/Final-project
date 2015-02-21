@@ -52,7 +52,7 @@ Router.map(function() {
 var requireLogin = function() { 
   if (! Meteor.user()) {
    // If user is not logged in render home
-   this.render('home'); 
+   this.render('home');
  } else {
    //if user is logged in render whatever route was requested
    this.next(); 
